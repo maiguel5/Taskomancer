@@ -23,8 +23,7 @@ Copias de seguridad automáticas y papelera para deshacer errores.
 Disponible en Español e inglés.
 
 ## Instalar
-Descarga `Taskomancer-Setup.exe` la
-[última versión](https://github.com/maiguel5/Taskomancer/releases/latest) y ejecuta el instalador.
+Descarga la [última versión](https://github.com/maiguel5/Taskomancer/releases/latest) de  `Taskomancer-Setup.exe` y ejecuta el instalador.
 Se instala para tu usuario y no pide permisos de administrador, salvo que haga falta instalar _.NET 10_ de Microsoft.
 
 Se incluye un archivo `SHA256SUMS.txt` junto a cada versión, contiene la huella SHA-256 del instalador para comprobar que el archivo está sano.
