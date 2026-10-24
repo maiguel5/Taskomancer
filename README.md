@@ -2,6 +2,7 @@
 
 # Taskomancer 1.1.3
 
+
 ## ¿Qué es Taskomancer?
 Agrupa tus aplicaciones (y más) en un solo icono de la barra de tareas de Windows. Al pulsarlo, o pasar el cursor por encima se abrirá un panel con las apps del grupo.
 Tus grupos pueden contener:
@@ -31,7 +32,7 @@ Se incluye un archivo `SHA256SUMS.txt` junto a cada versión, contiene la huella
 ## Privacidad
 Sin cuentas, sin telemetría, sin anuncios.
 El único acceso a internet es para buscar actualizaciones en esta página y se puede desactivar en Ajustes.
-Al añadir un enlace web con ²Obtener el icono del sitio" marcado, se hará uso de la red para descargar ese icono una única vez.
+Al añadir un enlace web con "Obtener el icono del sitio" marcado, se hará uso de la red para descargar ese icono una única vez.
 
 ## Licencia
 PolyForm Strict 1.0.0 ([LICENSE](LICENSE)): uso no comercial, no se permite redistribución ni modificaciones.
