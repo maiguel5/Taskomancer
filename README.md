@@ -2,7 +2,7 @@
 
 # Taskomancer 1.1.3
 
-# ¿Qué es?
+## ¿Qué es Taskomancer?
 Agrupa tus aplicaciones (y más) en un solo icono de la barra de tareas de Windows. Al pulsarlo, o pasar el cursor por encima se abrirá un panel con las apps del grupo.
 Tus grupos pueden contener:
 - Cualquier programa, tanto apps de escritorio como apps de la Microsoft Store
