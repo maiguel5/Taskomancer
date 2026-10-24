@@ -1,39 +1,39 @@
 <p align="center"><img src="logo.png" width="64" alt="Taskomancer"></p>
 
-# Taskomancer
+# Taskomancer 1.1.3
 
-Agrupa tus aplicaciones en un solo icono de la barra de tareas de Windows. Al
-pulsarlo, o al pasar el cursor por encima, se abre un panel con las apps del grupo.
 
-- Grupos con apps de escritorio, apps de la Microsoft Store, archivos, carpetas,
-  enlaces web, páginas de Configuración y herramientas de Windows, y otros grupos.
-- Panel en cuadrícula, fila, columna o lista, con secciones, colores propios por
-  grupo y tema claro u oscuro.
-- Teclado en el panel, búsqueda al escribir y atajos de teclado globales.
-- Apertura al pasar el cursor (opcional).
-- Apertura instantánea: un panel queda preparado en segundo plano para que los grupos
-  se abran al momento (se puede desactivar).
-- Exportar e importar grupos, copias de seguridad y papelera.
-- Español e inglés.
+## ¿Qué es Taskomancer?
+Agrupa tus aplicaciones (y más) en un solo icono de la barra de tareas de Windows. Al pulsarlo, o pasar el cursor por encima se abrirá un panel con las apps del grupo.
+Tus grupos pueden contener:
+- Cualquier programa, tanto apps de escritorio como apps de la Microsoft Store
+- Archivos y Carpetas.
+- Enlaces web.
+- Accesos rápidos a:
+  - Páginas de Configuración.
+  - Herramientas de Windows.
+  - Otros grupos.
+- Y acciones personalizadas como ejecutar un comando de consola (Para usuarios avanzados).
+
+Puedes modificar el aspecto de cada grupo, estilizarlo y reordenarlo a tu gusto.
+Abre rápidamente un grupo o cualquier elemento que contiene con atajos de teclado globales y búsqueda al escribir.
+Previsualiza un grupo con solo pasar el cursor (opcional).
+Apertura instantánea: Un panel de grupo tarda ~0,07sg en mostrarse.
+Puedes exportar e importar grupos, incluso compartirlos con otros usuarios.
+Copias de seguridad automáticas y papelera para deshacer errores.
+Disponible en Español e inglés.
 
 ## Instalar
+Descarga la [última versión](https://github.com/maiguel5/Taskomancer/releases/latest) de  `Taskomancer-Setup.exe` y ejecuta el instalador.
+Se instala para tu usuario y no pide permisos de administrador, salvo que haga falta instalar _.NET 10_ de Microsoft.
 
-Descarga `Taskomancer-Setup.exe` de la
-[última versión](https://github.com/maiguel5/Taskomancer/releases/latest). Se instala
-para tu usuario y no pide permisos de administrador, salvo que haga falta instalar
-el runtime de .NET 10 de Microsoft.
-
-`SHA256SUMS.txt`, junto a cada versión, contiene la huella SHA-256 del instalador
-para comprobar la descarga.
+Se incluye un archivo `SHA256SUMS.txt` junto a cada versión, contiene la huella SHA-256 del instalador para comprobar que el archivo está sano.
 
 ## Privacidad
-
-Sin cuentas, sin telemetría y sin anuncios. La app solo se conecta para buscar
-actualizaciones en esta página (se puede desactivar en Ajustes) y, al añadir un
-enlace web con «Obtener el icono del sitio» marcado, para descargar ese icono una vez.
+Sin cuentas, sin telemetría, sin anuncios.
+El único acceso a internet es para buscar actualizaciones en esta página y se puede desactivar en Ajustes.
+Al añadir un enlace web con "Obtener el icono del sitio" marcado, se hará uso de la red para descargar ese icono una única vez.
 
 ## Licencia
-
-PolyForm Strict 1.0.0 ([LICENSE](LICENSE)): uso no comercial, sin redistribución ni
-modificaciones. Los avisos de terceros están en
-[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+PolyForm Strict 1.0.0 ([LICENSE](LICENSE)): uso no comercial, no se permite redistribución ni modificaciones.
+Taskomancer hace uso de licencias de terceros, los avisos de terceros están en [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
